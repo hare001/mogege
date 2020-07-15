@@ -48,19 +48,19 @@
     </div>
 
     <div class="post-copyright">
-            {{ with .Site.Params.author }}
-            <p class="copyright-item">
-                <span>Author:</span>
-                <span>{{ . }} </span>
-                </p>
-            {{ end }}
+            <!--{{ with .Site.Params.author }}-->
+            <!--<p class="copyright-item">-->
+                <!--<span>Author:</span>-->
+                <!--<span>{{ . }} </span>-->
+                <!--</p>-->
+            <!--{{ end }}-->
 
-            {{ with .Permalink }}
-            <p class="copyright-item">
-                    <span>Link:</span>
-                    <a href={{ . }}>{{ . }}</span>
-            </p>
-            {{ end }}
+            <!--{{ with .Permalink }}-->
+            <!--<p class="copyright-item">-->
+                    <!--<span>Link:</span>-->
+		    <!--<a href={{ . }}>{{ . }}</span>-->
+            <!--</p>-->
+            <!--{{ end }}-->
             {{ with .Site.Params.license }}
             <p class="copyright-item lincese">
                 {{ . | safeHTML}}

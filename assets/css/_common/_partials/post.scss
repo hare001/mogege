@@ -70,7 +70,7 @@
       padding-bottom: .3em;
     }
     h2::before {
-      content: "#";
+      content: "";
       margin-right: 5px;
       color: $light-post-link-color;
       .dark-theme & {
@@ -79,7 +79,7 @@
     }
 
     h3::before {
-      content: "|";
+      content: "•";
       margin-right: 5px;
       color: $light-post-link-color;
 
@@ -112,7 +112,7 @@
       text-indent: -1.2em;
       white-space: pre-wrap;
       word-wrap: break-word;
-      font-family: 'Fira Code', Consolas, Monaco, Menlo, Consolas, monospace;
+      font-family: Monaco, Menlo, Consolas, monospace, 'Fira Code', Consolas;
       word-break: break-all;
       word-wrap: break-word;
     }

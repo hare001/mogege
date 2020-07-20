@@ -1,4 +1,3 @@
-
 var _Blog = _Blog || {}
 
 // Dark Mode

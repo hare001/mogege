@@ -1,0 +1,93 @@
+{
+  "id": "1954540",
+  "name": "hugo-icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "544473",
+      "name": "chevron-left",
+      "font_class": "left",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "544474",
+      "name": "chevron-right",
+      "font_class": "right",
+      "unicode": "e71a",
+      "unicode_decimal": 59162
+    },
+    {
+      "icon_id": "358470",
+      "name": "iconfont-weixin",
+      "font_class": "wechat",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "400805",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "544516",
+      "name": "folder",
+      "font_class": "folder",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "544529",
+      "name": "heart",
+      "font_class": "heart",
+      "unicode": "e751",
+      "unicode_decimal": 59217
+    },
+    {
+      "icon_id": "544612",
+      "name": "ios-cloudy-night",
+      "font_class": "darkmode",
+      "unicode": "e7a3",
+      "unicode_decimal": 59299
+    },
+    {
+      "icon_id": "544746",
+      "name": "ios-pricetags",
+      "font_class": "tags",
+      "unicode": "e823",
+      "unicode_decimal": 59427
+    },
+    {
+      "icon_id": "544756",
+      "name": "ios-pricetag",
+      "font_class": "tag",
+      "unicode": "e82d",
+      "unicode_decimal": 59437
+    },
+    {
+      "icon_id": "544984",
+      "name": "social-octocat",
+      "font_class": "octocat",
+      "unicode": "e90f",
+      "unicode_decimal": 59663
+    },
+    {
+      "icon_id": "544991",
+      "name": "social-rss",
+      "font_class": "rss",
+      "unicode": "e916",
+      "unicode_decimal": 59670
+    },
+    {
+      "icon_id": "545003",
+      "name": "social-twitter",
+      "font_class": "twitter",
+      "unicode": "e922",
+      "unicode_decimal": 59682
+    }
+  ]
+}

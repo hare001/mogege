@@ -1,9 +1,3 @@
-<head>
-	<meta charset="utf-8">
-	<title>{{ .Title }}</title>
-	{{ $assetBusting := not .Site.Params.disableAssetsBusting }}
-	<link href="{{"css/fontawesome-all.min.css" | relURL}}{{if $assetBusting }}?{{ now.Unix }}{{ end}}" rel="stylesheet">
-</head>
 <nav class="navbar">
     {{ if (and .IsPage (.Site.Params.contentProgress | default true)) }}
         <progress class="content_progress" max="0" value="0"></progress>
